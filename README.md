@@ -34,3 +34,40 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+src
+	assets
+		images
+		icons
+		logo
+	components -> atom(분자 단위로 구성) -> 화면을 구성하는 작은 요소
+	widgets -> atom이 모여서 이루는 screen의 작은 단위
+	features
+		databoard
+			screen
+			component
+			type
+			util
+			tanstack
+			widget
+			hook
+	types
+	utils
+	hooks
+	providers
+	layer
+	layouts
+	stores
+	lib
+	styles(?)
+	
+
+test는 각 파일안에
+
+
+아래 위젯으로 구성하고 ToolTip 해보자
+Home
+Education
+Skils
+Projects
+Exp, Storage
